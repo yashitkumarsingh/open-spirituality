@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this spiritual knowledge system, translations, or data models in your research or applications, please cite it as below."
+authors:
+  - name: "Open Spirituality Contributors"
+title: "open-spirituality: A Scholarly, Practice-Aware Spiritual Knowledge System"
+version: 0.1.0
+date-released: 2026-06-27
+url: "https://github.com/open-spirituality/open-spirituality"
+repository-code: "https://github.com/open-spirituality/open-spirituality"
+license: "CC-BY-SA-4.0"
+keywords:
+  - "spirituality"
+  - "dharma-texts"
+  - "sanskrit grammar"
+  - "meditation"
+  - "nondualism"
+  - "vijnana bhairava tantra"
+  - "kashmir shaivism"
+abstract: >-
+  A scholarly, visual, practice-aware, and citation-first open spiritual knowledge system 
+  providing Sanskrit base texts, transliterated versions, word-by-word grammatical breakdowns,
+  original open translations, philosophical interpretations, and contemplative practices
+  for primary spiritual and philosophical texts.

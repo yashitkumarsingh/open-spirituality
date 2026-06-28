@@ -1,0 +1,46 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Python environment and cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Node.js (for web app development)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.eslintcache
+.dist/
+build/
+out/
+
+# Local Drafts and Scratch Materials (not for public repo commit)
+*drafts/
+*temp/
+*scratch/
+*.tmp
+temp_*
+draft_*
+research_scratch/
+local_notes/
+commentaries/scholarly-notes/*private*
+commentaries/scholarly-notes/*draft*
+commentaries/scholarly-notes/peer-review.md
+commentaries/scholarly-notes/audit-report.md

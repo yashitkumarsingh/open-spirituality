@@ -1,0 +1,49 @@
+{
+  "themes": [
+    {
+      "id": "breath",
+      "name": "Breath Practices",
+      "description": "Contemplations focusing on the in-breath (prāṇa), out-breath (apāna), and the pause/gap between them (madhya, visarga)."
+    },
+    {
+      "id": "void-shunya",
+      "name": "Void / Śūnya Practices",
+      "description": "Absorption of mind into space, emptiness, and the formless void of consciousness."
+    },
+    {
+      "id": "sound-mantra",
+      "name": "Sound / Mantra Practices",
+      "description": "Absorption through chanting, internal resonance (nāda), and concentration on seed syllables."
+    },
+    {
+      "id": "senses",
+      "name": "Sensory Absorption",
+      "description": "Directing awareness through the gateways of the senses (sight, sound, taste, touch) to resolve into their source."
+    },
+    {
+      "id": "body",
+      "name": "Body & Space Practices",
+      "description": "Contemplating the body as empty space, or focusing on specific internal channels (suṣumṇā) and centers."
+    },
+    {
+      "id": "sleep-dream",
+      "name": "Sleep & Dream Practices",
+      "description": "Transforming the states of deep sleep, dreaming, and the transitions between waking and sleeping into nondual presence."
+    },
+    {
+      "id": "light-dark",
+      "name": "Light & Darkness",
+      "description": "Gazing into brilliant light or absolute darkness to dissolve the subject-object boundary."
+    },
+    {
+      "id": "emotion-intensity",
+      "name": "Emotion & Intensity",
+      "description": "Using intense states of mind (joy, desire, anger, pain, or fear) as high-energy gateways to nondual awareness."
+    },
+    {
+      "id": "nondual-recognition",
+      "name": "Nondual Recognition",
+      "description": "Direct, sudden recognition of the self as the all-pervading consciousness, without reliance on a specific technique."
+    }
+  ]
+}

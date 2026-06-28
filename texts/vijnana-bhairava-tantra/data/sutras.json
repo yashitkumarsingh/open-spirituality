@@ -1,0 +1,162 @@
+[
+  {
+    "id": "vbt-001",
+    "text": "Vijñāna Bhairava Tantra",
+    "verse_number": 1,
+    "dharana_number": null,
+    "speaker": "Devī",
+    "themes": ["introduction", "scholarly-context"],
+    "sanskrit": {
+      "devanagari": "श्रुतं देव मया सर्वं रुद्रयामलसम्भवम् । त्रिकभेदमशेषेण सारात्सारविभागशः ॥ १ ॥",
+      "iast": "śrutaṃ deva mayā sarvaṃ rudra-yāmala-sambhavam | trika-bhedam aśeṣeṇa sārāt sāra-vibhāgaśaḥ || 1 ||"
+    },
+    "translation": {
+      "en_open": "O Divine Lord, I have heard in their entirety the teachings arisen from the union of Rudra and Śakti, including the divisions of the Trika system, classified according to their increasingly essential nature.",
+      "status": "reviewed"
+    },
+    "concepts": ["rudrayāmala", "trika", "sāra", "śruta"],
+    "practice_level": null,
+    "caution": "Intellectual pride can block experiential realization. Approach these verses with humility.",
+    "visuals": [],
+    "sources": [
+      {
+        "type": "base_text",
+        "label": "KSTS 1918",
+        "url": "https://pranavameditation.com/Sutras/page217/page217.html"
+      }
+    ],
+    "review": {
+      "sanskrit": "approved",
+      "philosophy": "approved",
+      "practice_safety": "approved"
+    }
+  },
+  {
+    "id": "vbt-002",
+    "text": "Vijñāna Bhairava Tantra",
+    "verse_number": 2,
+    "dharana_number": null,
+    "speaker": "Devī",
+    "themes": ["introduction", "sound", "mātṛkā"],
+    "sanskrit": {
+      "devanagari": "अद्यापि न निवृत्तो मे संशयः परमेश्वर । किं रूपं तत्त्वतो देव शब्दराशि-कलामयम् ॥ २ ॥",
+      "iast": "adyāpi na nivṛtto me saṃśayaḥ parameśvara | kiṃ rūpaṃ tattvato deva śabdarāśi-kalāmayam || 2 ||"
+    },
+    "translation": {
+      "en_open": "But even now, O Supreme Lord, my doubt has not been resolved. What is the true form of Reality, O Divine One? Does it consist of the cosmic array of sounds and their subtle energies?",
+      "status": "reviewed"
+    },
+    "concepts": ["śabdarāśi", "mātṛkā", "kalā", "saṃśaya"],
+    "practice_level": null,
+    "caution": "Vocalizing seed syllables or mantras should be done naturalistically. Avoid forcing the voice or straining the throat.",
+    "visuals": [],
+    "sources": [
+      {
+        "type": "base_text",
+        "label": "KSTS 1918",
+        "url": "https://pranavameditation.com/Sutras/page217/page217.html"
+      }
+    ],
+    "review": {
+      "sanskrit": "approved",
+      "philosophy": "approved",
+      "practice_safety": "approved"
+    }
+  },
+  {
+    "id": "vbt-003",
+    "text": "Vijñāna Bhairava Tantra",
+    "verse_number": 3,
+    "dharana_number": null,
+    "speaker": "Devī",
+    "themes": ["introduction", "deities", "triad"],
+    "sanskrit": {
+      "devanagari": "किं वा नवात्मभेदेन भैरवे भैरवाकृतौ । त्रिशिरोभेदभिन्नं वा किं वा शक्तित्रयात्मकम् ॥ ३ ॥",
+      "iast": "kiṃ vā navātmabhedena bhairave bhairavākṛtau | triśirobhedabhinnaṃ vā kiṃ vā śakti-trayātmakam || 3 ||"
+    },
+    "translation": {
+      "en_open": "Or is it that Reality is to be found in the ninefold division of the form of Bhairava? Or is it differentiated by the three heads of the Triśirobhairava? Or is it composed of the triad of Shaktis?",
+      "status": "reviewed"
+    },
+    "concepts": ["navātman", "triśiras", "śaktitraya", "ākṛti"],
+    "practice_level": null,
+    "caution": "Esoteric visualizations should remain light and unstrained. Do not try to forcefully hold complex, multi-headed images in your mind if it causes mental tension.",
+    "visuals": [],
+    "sources": [
+      {
+        "type": "base_text",
+        "label": "KSTS 1918",
+        "url": "https://pranavameditation.com/Sutras/page217/page217.html"
+      }
+    ],
+    "review": {
+      "sanskrit": "approved",
+      "philosophy": "approved",
+      "practice_safety": "approved"
+    }
+  },
+  {
+    "id": "vbt-004",
+    "text": "Vijñāna Bhairava Tantra",
+    "verse_number": 4,
+    "dharana_number": null,
+    "speaker": "Devī",
+    "themes": ["introduction", "sound", "uccāra"],
+    "sanskrit": {
+      "devanagari": "नादबिन्दु-मयं वापि किं चन्द्रार्ध-निरोधिकाः । चक्रारूढमनच्कं वा किं वा शक्ति-स्वरूपकम् ॥ ४ ॥",
+      "iast": "nādabindu-mayaṃ vāpi kiṃ candrārdha-nirodhikāḥ | cakrārūḍhamanackaṃ vā kiṃ vā śakti-svarūpakam || 4 ||"
+    },
+    "translation": {
+      "en_open": "Or does Reality consist of the resonance of sound (Nāda) and the concentrated point (Bindu)? Or is it the crescent moon (Candrārdha) and the impeder (Nirodhikā)? Or is it the vowelless sound placed within the energy centers (Cakra)? Or is it the very essence of Shakti?",
+      "status": "reviewed"
+    },
+    "concepts": ["nāda", "bindu", "candrārdha", "nirodhikā", "anacka"],
+    "practice_level": "intermediate",
+    "caution": "When practicing listening to internal sounds, do not strain or create pressure in the ears. If you feel dizzy, stop the practice and rest.",
+    "visuals": [],
+    "sources": [
+      {
+        "type": "base_text",
+        "label": "KSTS 1918",
+        "url": "https://pranavameditation.com/Sutras/page217/page217.html"
+      }
+    ],
+    "review": {
+      "sanskrit": "approved",
+      "philosophy": "approved",
+      "practice_safety": "approved"
+    }
+  },
+  {
+    "id": "vbt-005",
+    "text": "Vijñāna Bhairava Tantra",
+    "verse_number": 5,
+    "dharana_number": null,
+    "speaker": "Devī",
+    "themes": ["introduction", "philosophy", "nondualism"],
+    "sanskrit": {
+      "devanagari": "परापरायाः सकलमपरां च तथा पुनः । पराया यदि तत् स्यात् तत्त्वं तद्विरुध्यते ॥ ५ ॥",
+      "iast": "parāparāyāḥ sakalamaparāṃ ca tathā punaḥ | parāyā yadi tat syāt tattvaṃ tadvirudhyate || 5 ||"
+    },
+    "translation": {
+      "en_open": "Is the ultimate Reality manifest with parts (sakala), belonging to the intermediate energy (Parāparā) or the lower energy (Aparā)? Or, if Reality is exclusively the supreme transcendent energy (Parā), then that very transcendence becomes contradicted.",
+      "status": "reviewed"
+    },
+    "concepts": ["parā", "aparā", "parāparā", "sakala", "tattva"],
+    "practice_level": "beginner",
+    "caution": "Do not get trapped in intellectual circular thinking. Logic is a tool to show the limits of the mind; when logic shows a contradiction, relax the intellect and rest in silent presence.",
+    "visuals": [],
+    "sources": [
+      {
+        "type": "base_text",
+        "label": "KSTS 1918",
+        "url": "https://pranavameditation.com/Sutras/page217/page217.html"
+      }
+    ],
+    "review": {
+      "sanskrit": "approved",
+      "philosophy": "approved",
+      "practice_safety": "approved"
+    }
+  }
+]

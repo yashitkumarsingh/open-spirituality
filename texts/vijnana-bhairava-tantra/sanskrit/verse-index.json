@@ -1,0 +1,37 @@
+[
+  {
+    "verse_number": 1,
+    "speaker": "Devī",
+    "filepath": "sutras/001.md",
+    "devanagari": "श्रुतं देव मया सर्वं रुद्रयामलसम्भवम् । त्रिकभेदमशेषेण सारात्सारविभागशः ॥ १ ॥",
+    "iast": "śrutaṃ deva mayā sarvaṃ rudrayāmalasambhavam | trikabhedam aśeṣeṇa sārāt sāravibhāgaśaḥ || 1 ||"
+  },
+  {
+    "verse_number": 2,
+    "speaker": "Devī",
+    "filepath": "sutras/002.md",
+    "devanagari": "अद्यापि न निवृत्तो मे संशयः परमेश्वर । किं रूपं तत्त्वतो देव शब्दराशि-कलामयम् ॥ २ ॥",
+    "iast": "adyāpi na nivṛtto me saṃśayaḥ parameśvara | kiṃ rūpaṃ tattvato deva śabdarāśi-kalāmayam || 2 ||"
+  },
+  {
+    "verse_number": 3,
+    "speaker": "Devī",
+    "filepath": "sutras/003.md",
+    "devanagari": "किं वा नवात्मभेदेन भैरवे भैरवाकृतौ । त्रिशिरोभेदभिन्नं वा किं वा शक्तित्रयात्मकम् ॥ ३ ॥",
+    "iast": "kiṃ vā navātmabhedena bhairave bhairavākṛtau | triśirobhedabhinnaṃ vā kiṃ vā śaktitrayātmakam || 3 ||"
+  },
+  {
+    "verse_number": 4,
+    "speaker": "Devī",
+    "filepath": "sutras/004.md",
+    "devanagari": "नादबिन्दु-मयं वापि किं चन्द्रार्ध-निरोधिकाः । चक्रारूढमनच्कं वा किं वा शक्ति-स्वरूपकम् ॥ ४ ॥",
+    "iast": "nādabindu-mayaṃ vāpi kiṃ candrārdha-nirodhikāḥ | cakrārūḍhamanackaṃ vā kiṃ vā śakti-svarūpakam || 4 ||"
+  },
+  {
+    "verse_number": 5,
+    "speaker": "Devī",
+    "filepath": "sutras/005.md",
+    "devanagari": "परापरायाः सकलमपरां च तथा पुनः । पराया यदि तत् स्यात् तत्त्वं तद्विरुध्यते ॥ ५ ॥",
+    "iast": "parāparāyāḥ sakalamaparāṃ ca tathā punaḥ | parāyā yadi tat syāt tattvaṃ tadvirudhyate || 5 ||"
+  }
+]

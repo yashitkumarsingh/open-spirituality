@@ -1,0 +1,67 @@
+[
+  {
+    "source_id": "vbt-001",
+    "targets": [
+      {
+        "text": "Shiva Sutras",
+        "id": "ss-1-1",
+        "relation": "conceptual-parallel"
+      },
+      {
+        "text": "Pratyabhijñāhṛdayam",
+        "id": "ph-1",
+        "relation": "conceptual-parallel"
+      }
+    ]
+  },
+  {
+    "source_id": "vbt-002",
+    "targets": [
+      {
+        "text": "Shiva Sutras",
+        "id": "ss-1-4",
+        "relation": "direct-reference"
+      },
+      {
+        "text": "Spanda Kārikā",
+        "id": "sk-3-45",
+        "relation": "conceptual-parallel"
+      }
+    ]
+  },
+  {
+    "source_id": "vbt-003",
+    "targets": [
+      {
+        "text": "Shiva Sutras",
+        "id": "ss-1-3",
+        "relation": "conceptual-parallel"
+      },
+      {
+        "text": "Spanda Kārikā",
+        "id": "sk-1-20",
+        "relation": "conceptual-parallel"
+      }
+    ]
+  },
+  {
+    "source_id": "vbt-004",
+    "targets": [
+      {
+        "text": "Shiva Sutras",
+        "id": "ss-2-3",
+        "relation": "conceptual-parallel"
+      }
+    ]
+  },
+  {
+    "source_id": "vbt-005",
+    "targets": [
+      {
+        "text": "Shiva Sutras",
+        "id": "ss-1-2",
+        "relation": "conceptual-parallel"
+      }
+    ]
+  }
+]

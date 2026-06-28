@@ -1,0 +1,23 @@
+id: vijnana-bhairava-tantra
+title:
+  original: "विज्ञानभैरवतन्त्र"
+  iast: "Vijñāna Bhairava Tantra"
+  english: "Tantra of the Supreme Consciousness"
+chronology: "c. 850 CE"
+tradition: "Trika / Kashmir Śaiva"
+language: "Sanskrit"
+structure:
+  total_verses: 163
+  total_dharanas: 112
+primary_source:
+  title: "Kashmir Series of Texts and Studies (KSTS) No. IX"
+  editor: "Mukund Rām Shāstrī"
+  year: 1918
+  location: "Srinagar / Bombay"
+  commentary: "Kaumadī by Ānanda Bhaṭṭa"
+license:
+  content: "CC-BY-SA-4.0"
+  code: "MIT"
+  base_text: "Public Domain"
+contributors:
+  - "Open Spirituality Community"

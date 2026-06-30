@@ -1,0 +1,16 @@
+{
+  "references": [
+    {
+      "source_verse": "ashtavakra-gita:001",
+      "target_id": "bhagavad-gita:4.34",
+      "relation": "parallel_inquiry_attitude",
+      "description": "Humility in approaching a spiritual master for ultimate knowledge."
+    },
+    {
+      "source_verse": "ashtavakra-gita:001",
+      "target_id": "katha-upanishad:1.2.1",
+      "relation": "thematic_vairagya",
+      "description": "Choosing the liberating path (śreyas) over the worldly pleasant (preyas)."
+    }
+  ]
+}

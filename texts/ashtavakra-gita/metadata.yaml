@@ -1,0 +1,23 @@
+id: ashtavakra-gita
+title:
+  original: "अष्टावक्रगीता"
+  iast: "Aṣṭāvakra Gītā"
+  english: "Song of Ashtavakra"
+chronology: "c. 500 BCE - 800 CE"
+tradition: "Advaita Vedanta"
+language: "Sanskrit"
+structure:
+  total_chapters: 20
+  total_verses: 298
+primary_source:
+  title: "Ashtavakra Samhita"
+  editor: "Swami Nityaswarupananda"
+  year: 1940
+  publisher: "Advaita Ashrama"
+  location: "Mayavati, Himalayas"
+license:
+  content: "CC-BY-SA-4.0"
+  code: "MIT"
+  base_text: "Public Domain"
+contributors:
+  - "Open Spirituality Community"

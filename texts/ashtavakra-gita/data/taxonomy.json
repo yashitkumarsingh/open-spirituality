@@ -1,0 +1,25 @@
+{
+  "categories": [
+    {
+      "id": "inquiry",
+      "name": "Self-Inquiry (Ātma-Vicāra)",
+      "description": "Methods and contemplations focusing on recognizing the true nature of the self as the witness."
+    },
+    {
+      "id": "detachment",
+      "name": "Dispassion (Vairāgya)",
+      "description": "Teachings focusing on turning away from transient phenomena."
+    },
+    {
+      "id": "liberation",
+      "name": "Liberation (Mukti)",
+      "description": "Expositions on the nature of ultimate freedom."
+    }
+  ],
+  "mappings": [
+    {
+      "verse_id": "001",
+      "category_ids": ["inquiry", "detachment", "liberation"]
+    }
+  ]
+}

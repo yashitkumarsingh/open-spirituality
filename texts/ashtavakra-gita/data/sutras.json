@@ -1,0 +1,29 @@
+[
+  {
+    "id": "ashtavakra-001",
+    "text": "Ashtavakra Gita",
+    "chapter": 1,
+    "verse_number": 1,
+    "speaker": "Janaka",
+    "themes": ["inquiry", "detachment", "liberation"],
+    "sanskrit": {
+      "devanagari": "जनक उवाच ।\nकथं ज्ञानमवाप्नोति कथं मुक्तिर्भविष्यति ।\nवैराग्यं च कथं प्राप्तमेतद्ब्रूहि मम प्रभो ॥ १.१ ॥",
+      "iast": "janaka uvāca |\nkathaṃ jñānam avāpnoti kathaṃ muktir bhaviṣyati |\nvairāgyaṃ ca kathaṃ prāptam etad brūhi mama prabho || 1.1 ||"
+    },
+    "translation": {
+      "en_open": "King Janaka said:\n\"O Master, how is saving knowledge attained? How does liberation occur? And how is dispassion acquired? Tell me this!\"",
+      "status": "reviewed"
+    },
+    "concepts": ["jñāna", "mukti", "vairāgya", "mumukṣutva"],
+    "practice_level": null,
+    "caution": "Avoid pseudo-dispassion/suppression, dry intellectual escapism, or spiritual pride.",
+    "visuals": [],
+    "sources": [
+      {
+        "type": "base_text",
+        "label": "Advaita Ashrama 1940",
+        "url": "https://www.realization.org/p/ashtavakra/richards.html"
+      }
+    ]
+  }
+]
